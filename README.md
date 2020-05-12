@@ -3,4 +3,4 @@
 This is a simple bottom navigation bar, which includes PageView widget.
 
 
-![Demo](/screenshots/simulator.gif)
+![Demo](/screenshot/simulator.gif)
